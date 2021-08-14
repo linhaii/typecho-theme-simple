@@ -37,3 +37,4 @@
 
 下载地址：[点此下载](https://github.com/linhaii/typecho-theme-simple)。
 
+本主题发布页面：[点此查看](https://lhcy.org/archives/174.html)。
